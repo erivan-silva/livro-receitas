@@ -5,4 +5,3 @@ olá Bem vindo ao livro de receitas.
 - pizza
 - cuscuz
 - arroz
-- 
